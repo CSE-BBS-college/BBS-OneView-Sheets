@@ -3,6 +3,8 @@ Semtster group project
 ---
 So the main idea is to replicate the functionality of AKTU Oneview for the class test which are conducted in each semester.
 
+[View Webapp](https://bbs-oneview.netlify.app)
+
 **Tech Stack used**
 - HTML
 - CSS
