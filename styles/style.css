@@ -8,8 +8,8 @@
 body {
   background-color:#141c27;
   box-sizing: border-box;
-  overflow: hidden;
-
+/*   overflow: hidden;
+ */
 }
 .container {
   padding: 2%;
