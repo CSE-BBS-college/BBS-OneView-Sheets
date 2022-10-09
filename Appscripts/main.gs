@@ -21,7 +21,7 @@ function doGet(req) {
     }
 
     if (roll_num != null ){
-        studentView(output,subjects_data,roll_num)           
+        return studentView(output,subjects_data,roll_num)           
       
     }
     else if(selected_year != null && selected_branch != null) {
