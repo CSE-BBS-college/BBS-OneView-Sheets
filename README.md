@@ -13,11 +13,11 @@ So the main idea is to replicate the functionality of AKTU Oneview for the class
 
 **Current objectives are** 
 
-- A Responsive UI for viewing marks
-- Different UI for students and teachers.
-- Visualization of the scores in both views.
-- A central datasheet(Google sheets) for maintaining and updating marks.
-- Basic Authentication for teachers.
+- [x] A Responsive UI for viewing marks
+- [ ] Different UI for students and teachers.
+- [ ] Visualization of the scores in both views.
+- [ ] A central datasheet(Google sheets) for maintaining and updating marks.
+- [ ] Basic Authentication for teachers.
 
 
 
