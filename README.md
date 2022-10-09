@@ -11,7 +11,7 @@ So the main idea is to replicate the functionality of AKTU Oneview for the class
 - Vanilla JavaScript
 - Google App script(As database)
 
-**Current objectives are** 
+**Current objectives** 
 
 - [x] A Responsive UI for viewing marks
 - [ ] Different UI for students and teachers.
