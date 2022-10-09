@@ -64,6 +64,10 @@ body {
   position: relative;
   margin-top: 2em;
 }
+.page div  {
+  color: rgb(255,255,129);
+  font-size: 5rem;
+}
 .page .word {
   text-transform: uppercase;
   letter-spacing: 0.5rem;
